@@ -1,1 +1,2 @@
-# caeser_cifer
+# Odin Project
+# caeser_cifer - Project Ruby
